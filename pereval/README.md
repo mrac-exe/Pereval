@@ -88,13 +88,13 @@ POST api/pereval/
     "title": "title",
     "other_titles": "other_titles",
     "connect": "connect",
-    "add_time": "29-08-2024 17:34:36",
+    "add_time": "29-11-2024 15:54:16",
     "user": {
         "email": "test@mail.ru",
-        "fam": "Иванов",
-        "name": "Иван",
-        "otc": "Иванов",
-        "phone": "79773003030"
+        "fam": "Петров",
+        "name": "Сергей",
+        "otc": "Васильевич",
+        "phone": "87052501040"
     },
     "coords": {
         "latitude": "10.000000",
